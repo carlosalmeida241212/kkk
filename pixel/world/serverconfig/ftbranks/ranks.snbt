@@ -1,0 +1,15 @@
+{
+	vip: {
+		name: "VIP"
+		power: 50
+		condition: "always_active"
+		ftbranks.name_format: "<&bVIP {name}&r>"
+		command.teleport: true
+	}
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		ftbranks.name_format: "<&2{name}&r>"
+	}
+}

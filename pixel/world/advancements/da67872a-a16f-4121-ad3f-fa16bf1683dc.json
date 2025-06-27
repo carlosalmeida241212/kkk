@@ -1,0 +1,868 @@
+{
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/potato_pack": {
+    "criteria": {
+      "has_potato": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-25 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/skitty_smoothie": {
+    "criteria": {
+      "has_moomoo_milk": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-25 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2025-06-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-25 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ultra_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-25 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2025-06-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/eeveelution_capture_all": {
+    "criteria": {
+      "0": "2025-06-25 02:25:32 +0000",
+      "1": "2025-06-25 02:25:32 +0000",
+      "2": "2025-06-25 02:25:32 +0000",
+      "3": "2025-06-25 02:25:32 +0000",
+      "4": "2025-06-25 02:25:32 +0000",
+      "5": "2025-06-25 02:25:32 +0000",
+      "6": "2025-06-25 02:25:32 +0000",
+      "7": "2025-06-25 02:25:32 +0000",
+      "8": "2025-06-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2025-06-25 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_feather": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/clobbopus_jump_capture_all": {
+    "criteria": {
+      "0": "2025-06-25 02:25:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/poke_dirt": {
+    "criteria": {
+      "has_dirt": "2025-06-25 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-25 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-25 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-25 03:55:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/hp_up": {
+    "criteria": {
+      "has_feather": "2025-06-25 02:16:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/ball_capture_trigger": {
+    "criteria": {
+      "ball_capture_poke_ball": "2025-06-25 03:30:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/red_apricorn": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-06-25 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/poke_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-06-25 02:21:34 +0000",
+      "apple": "2025-06-25 02:17:28 +0000",
+      "mutton": "2025-06-25 02:12:27 +0000",
+      "bread": "2025-06-25 02:22:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/end_table": {
+    "criteria": {
+      "has_crafting_table": "2025-06-25 02:07:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2025-06-25 02:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/reveal_glass": {
+    "criteria": {
+      "has_sapphire": "2025-06-25 02:34:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/redbadgecase": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-25 02:07:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/sapphire/sapphire_equipment": {
+    "criteria": {
+      "has_sapphire": "2025-06-25 02:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-25 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-25 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-06-25 03:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/tapu_cocoa": {
+    "criteria": {
+      "has_moomoo_milk": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2025-06-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2025-06-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "unown_capture_all": "2025-06-25 02:25:32 +0000",
+      "eeveelution_capture_all": "2025-06-25 02:25:32 +0000",
+      "minior_capture_all": "2025-06-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2025-06-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/item_frame": {
+    "criteria": {
+      "has_painting": "2025-06-25 03:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-25 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-25 03:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-06-25 03:05:51 +0000",
+      "minecraft:snowy_mountains": "2025-06-25 02:58:47 +0000",
+      "minecraft:forest": "2025-06-25 02:31:48 +0000",
+      "minecraft:desert_hills": "2025-06-25 02:05:55 +0000",
+      "minecraft:snowy_tundra": "2025-06-25 02:42:11 +0000",
+      "minecraft:desert": "2025-06-25 02:06:38 +0000",
+      "minecraft:frozen_river": "2025-06-25 02:44:40 +0000",
+      "minecraft:snowy_beach": "2025-06-25 02:59:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-25 03:16:06 +0000",
+      "minecraft:badlands": "2025-06-25 03:13:34 +0000",
+      "minecraft:savanna_plateau": "2025-06-25 02:36:12 +0000",
+      "minecraft:beach": "2025-06-25 02:35:08 +0000",
+      "minecraft:river": "2025-06-25 02:08:18 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-25 02:41:11 +0000",
+      "minecraft:snowy_taiga": "2025-06-25 02:52:50 +0000",
+      "minecraft:wooded_hills": "2025-06-25 02:24:28 +0000",
+      "minecraft:swamp": "2025-06-25 02:11:09 +0000",
+      "minecraft:savanna": "2025-06-25 02:05:09 +0000",
+      "minecraft:plains": "2025-06-25 02:08:20 +0000"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2025-06-25 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-25 02:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/dusk_ball_capture": {
+    "criteria": {
+      "dusk_ball_capture": "2025-06-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-25 02:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/dream_ball_new": {
+    "criteria": {
+      "has_dusk_ball": "2025-06-25 02:22:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heal_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spheal_jump_capture_all": {
+    "criteria": {
+      "0": "2025-06-25 02:25:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2025-06-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_planks": {
+    "criteria": {
+      "has_log": "2025-06-25 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_planks_dyed": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2025-06-25 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-25 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/film": {
+    "criteria": {
+      "has_camera": "2025-06-25 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/glass_table": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/bench": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/wooden_hammer": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/great_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-06-25 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/magikarp_jump_capture_all": {
+    "criteria": {
+      "0": "2025-06-25 02:25:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-25 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/nest_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2025-06-25 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-06-25 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2025-06-25 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-25 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-25 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
